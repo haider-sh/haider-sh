@@ -30,7 +30,7 @@ Git · Linux · Postman
 
 ## About
 
-Portfolio: https://haider-sh.github.io/homepage/  
-Resume: https://haider-sh.github.io/homepage/public/CV_HaiderShahid.pdf  
+Portfolio: [Portfolio Link] (https://haider-sh.github.io/homepage/)  
+Resume: [PDF Link](https://haider-sh.github.io/homepage/public/CV_HaiderShahid.pdf)  
 LinkedIn: https://www.linkedin.com/in/haider-shahid-a92b0b163  
 Email: syedhaidershahid391@gmail.com  
