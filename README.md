@@ -1,4 +1,4 @@
-# Hi, I’m Haider 👋
+# Hi, I’m Haider
 
 A full-stack MERN developer building modern and scalable web applications.
 
